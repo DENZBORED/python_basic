@@ -1,0 +1,54 @@
+[
+  [
+    {
+      "index": 1,
+      "first_name": "สมชาย",
+      "last_name": "ใจดี",
+      "student_id": "001",
+      "math_score": 95,
+      "science_score": 89,
+      "art_score": 76,
+      "grade_math": "A",
+      "grade_science": "A",
+      "grade_art": "B"
+    },
+    {
+      "index": 2,
+      "first_name": "สมชาย",
+      "last_name": "ใจดี",
+      "student_id": "001",
+      "math_score": 95,
+      "science_score": 89,
+      "art_score": 76,
+      "grade_math": "A",
+      "grade_science": "A",
+      "grade_art": "B"
+    }
+  ],
+  [
+    {
+      "index": 3,
+      "first_name": "Dean",
+      "last_name": "Sachdev",
+      "student_id": "6-7",
+      "math_score": 95,
+      "science_score": 83,
+      "art_score": 95,
+      "grade_math": "A",
+      "grade_science": "A",
+      "grade_art": "A"
+    },
+    {
+      "index": 4,
+      "first_name": "Dean",
+      "last_name": "Sacahcadhev",
+      "student_id": "68",
+      "math_score": 93,
+      "science_score": 64,
+      "art_score": 35,
+      "grade_math": "A",
+      "grade_science": "C",
+      "grade_art": "F"
+    }
+  ]
+]
